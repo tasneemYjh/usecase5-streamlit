@@ -50,5 +50,13 @@ st.markdown("""The chart clearly demonstrates a substantial preference for full-
 """)
 st.image('q5.png', caption='Full-time contracts greatly outnumber remote.', use_column_width=True)
 
+st.header('Conclusion')
+
+st.markdown("""Job postings in Saudi Arabia show Riyadh as the leader in job opportunities. Gender equality is evident, with equal job postings for males and females. Fresh graduates are in high demand, with competitive salary ranges and a preference for full-time contracts.""")
+
+
+
+
+
 
 
