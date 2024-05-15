@@ -13,7 +13,8 @@ This analysis aims to provide insights into job postings in Saudi Arabia, highli
 
 
 
-st.header("Riyadh has most job postings", level=2)
+st.header("( Riyadh has most job postings )")
+
 
 st.markdown("""
 The chart illustrates the distribution of job postings across various regions within Saudi Arabia.
