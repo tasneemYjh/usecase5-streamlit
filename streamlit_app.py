@@ -13,7 +13,7 @@ This analysis aims to provide insights into job postings in Saudi Arabia, highli
 
 
 
-st.header("( Riyadh has most job postings )")
+st.header("Riyadh has most job postings")
 
 
 st.markdown("""
