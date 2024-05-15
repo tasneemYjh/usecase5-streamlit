@@ -11,10 +11,7 @@ This analysis aims to provide insights into job postings in Saudi Arabia, highli
 
 
 
-st.markdown("      
 
-            
-            ")
 
 
 st.markdown("""
