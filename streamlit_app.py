@@ -36,3 +36,11 @@ st.image('q1.png', caption='Equal job postings for all genders.', use_column_wid
 st.markdown("""this chart shows that Fresh graduates have a higher number of job postings, indicating a demand for new talent in the job market.
 """)
 st.image('q3.png', caption='More job postings target fresh graduates.', use_column_width=True)
+
+
+st.markdown("""this chart shows that Job postings commonly feature a salary range between 4000 and 7000 for fresh graduates, indicating a competitive entry-level pay scale across various industries.""")
+st.image('q4.png', caption='salary range for fresh graduates.', use_column_width=True)
+
+
+
+
