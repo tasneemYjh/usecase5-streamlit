@@ -1,11 +1,9 @@
 import streamlit as st
 
 
-
+st.image('')
 st.title('Job Postings in :green[Saudi Arebia]')
-saudi_flag = """:white_medium_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::
-"""
-st.markdown(f"Saudi Flag: \n\n{saudi_flag}")
+
 st.text("""In recent years, Saudi Arabia has seen significant growth in job opportunities across various sectors. This analysis aims to provide insights into job postings in Saudi Arabia, highlighting key trends and patterns in the job market.
 """)
 
