@@ -13,7 +13,7 @@ This analysis aims to provide insights into job postings in Saudi Arabia, highli
 
 
 
-st.header("Riyadh has most job postings", level=2)
+#st.header("Riyadh has most job postings", level=2)
 
 st.markdown("""
 The chart illustrates the distribution of job postings across various regions within Saudi Arabia.
@@ -25,11 +25,15 @@ st.image('q2.png', caption='Riyadh has most job postings', use_column_width=True
 
 
 
-st.header("Job Postings in Saudi Arabia", level=2)
-st.markdown("<h2 style='text-align: center; color: green;'>Job Postings in Saudi Arabia</h2>", unsafe_allow_html=True)
-st.image('https://example.com/your-image.jpg', caption='Your Image Caption', use_column_width=True)
+#st.header("Job Postings in Saudi Arabia", level=2)
+st.markdown("""this chart shows that gender equality in employment opportunities across the kingdom.
+Both male and female candidates have an equal number of job postings, highlighting a balanced approach to hiring.
+
+""")
+
+st.image('q1', caption='"Equal job postings for all genders.", use_column_width=True)
 
 
-st.title('Job Postings in :green[Saudi Arabia]')
-st.text('This is some text.')
-st.image('https://example.com/your-image.jpg', caption='Your Image Caption', use_column_width=True)
+#st.title('Job Postings in :green[Saudi Arabia]')
+#st.text('This is some text.')
+#st.image('https://example.com/your-image.jpg', caption='Your Image Caption', use_column_width=True)
