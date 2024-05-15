@@ -13,7 +13,18 @@ This analysis aims to provide insights into job postings in Saudi Arabia, highli
 
 
 
-st.image('', caption='Your Image Caption', use_column_width=True)
+
+st.markdown("""
+The chart illustrates the distribution of job postings across various regions within Saudi Arabia.
+It is evident that Riyadh leads significantly, accounting for the highest number of job postings compared to other regions.
+This trend reflects Riyadh's role as the capital and a major economic hub, attracting a plethora of job opportunities across diverse sectors.
+""")
+st.image('q2.png', caption='Riyadh has most job postings', use_column_width=True)
+
+
+
+
+
 
 
 
