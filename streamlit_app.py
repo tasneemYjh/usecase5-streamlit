@@ -31,7 +31,7 @@ Both male and female candidates have an equal number of job postings, highlighti
 
 """)
 
-st.image('q1', caption='"Equal job postings for all genders.", use_column_width=True)
+st.image('q1', caption='Equal job postings for all genders.', use_column_width=True)
 
 
 #st.title('Job Postings in :green[Saudi Arabia]')
