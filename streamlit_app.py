@@ -42,5 +42,9 @@ st.markdown("""this chart shows that Job postings commonly feature a salary rang
 st.image('q4.png', caption='salary range for fresh graduates.', use_column_width=True)
 
 
+st.markdown("""The chart clearly demonstrates a substantial preference for full-time employment contracts over remote work agreements.
+""")
+st.image('q5.png', caption='Full-time contracts greatly outnumber remote.', use_column_width=True)
+
 
 
